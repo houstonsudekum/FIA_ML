@@ -1,0 +1,128 @@
+Project_ID,Project_Name,Company_Name,Feedstock_types,Destination,Status,Year_Est,City,County,State,Region,Latitude,Longitude,Capacity_Ton,Closing_Yr,Cap_100K
+5,BioWood LLC,Biowood LLC,mill waste,Domestic,Operating,1990,Monticello,Drew,AR,South,33.580852,-91.792515,40000,Open,0
+16,Said Company,Said Company,mill waste,Domestic,Operating,1990,Sylvania,Screven,GA,South,32.879694,-81.655767,45000,Open,0
+601,Unaka Forest Products,Unaka Forest Products,mill residues,Domestic,Operating,2000,Jonesborough,Washington,TN,South,36.205749,-82.441084,0,Open,0
+602,Dejno's Inc.,Dejno's Inc.,"mill residues, wood chips, urban wood",Domestic,Operating,2000,Kenosha,Kenosha,WI,North,42.583369,-87.885386,40000,Open,0
+337,Wood Pellets,Wood Pellets,assume mill residues,Domestic,Operating,2003,Summerhill,Cambria,PA,North,40.405061,-78.757136,32000,Open,0
+336,Penn Wood Products,Penn Wood Products,mill residues from own mill operations,Domestic,Operating,2004,East Berlin,Adams,PA,North,39.9363,-76.98054,4400,Open,0
+133,Turman Hardwood Flooring,Turman Hardwood Flooring,assume mill residues from own operation,Domestic,Operating,2005,Galax,Carroll,VA,South,36.649012,-80.939184,15000,Open,0
+281,American Wood Fibers,American Wood Fibers,hardwood mill residues,Domestic,Operating,2005,Circleville,Pickaway,OH,North,39.560743,-82.944148,40000,Open,0
+327,Associated Harvest,Associated Harvest,assume mill residues,Domestic,Operating,2005,La Fargeville,Jefferson,NY,North,44.194797,-75.966102,10000,Open,0
+1,Nature's Earth Pellet,Nature's Earth Pellet,kiln dried planer shavings of southern yellow pine,Domestic,Operating,2006,Reform,Pickens,AL,South,33.3554762,-88.0201221,90000,Open,0
+18,Rockwood Pellets,Rockwood Pellets,mill waste (hardwood sawdust),Domestic,Shut down,2006,The Rock,Upson,GA,South,32.964675,-84.239575,15000,2011,0
+265,Southern Kentucky Pellet Mill,Southern Kentucky Pellet Mill,assume mill residues,Domestic,Operating,2006,Gamaliel,Monroe,KY,South,36.637722,-85.794241,19841,Open,0
+270,Koetter and Smith,Smith Creek,assume mill residues,Domestic,Operating,2006,Borden,Clark,IN,North,38.404052,-85.9374,1102,Open,0
+289,Marth Wood Shaving Supply,"Lignetics, Inc.",assume mill residues,Domestic,Operating,2006,Marathon,Marathon,WI,North,45.033761,-89.845612,75000,Open,0
+121,Hassell & Hughes Lumber Company,Hassell & Hughes Lumber Company,oak residue from own flooring line - do not buy outside material,Domestic,Operating,2007,Collinwood,Wayne,TN,South,35.169528,-87.74635,25000,Open,0
+264,Anderson Hardwood Pellets,Anderson Hardwood Pellets,hardwood sawdust from own operations,Domestic,Operating,2007,Louisville,Jefferson,KY,South,38.235394,-85.805528,19841,Open,0
+268,Hamer Pellet Fuel,Hamer Pellet Fuel,hardwood sawdust from own lumber operations,Domestic,Shut down,2007,Mt. Hope,Fayette,WV,North,37.895391,-81.164268,45195,2017,0
+273,Maeder Brothers,Maeder Brothers,mill residues from own operations and nearby mills,Domestic,Operating,2007,Weidman,Isabella,MI,North,43.683573,-84.950326,25353,Open,0
+274,Mich Wood Pellet,Mich Wood Pellet,assume mill residues,Domestic,Operating,2007,Grayling,Crawford,MI,North,44.653897,-84.698664,50000,Open,0
+277,Vulcan Wood Products,Vulcan Wood Products,assume mill residues,Domestic,Operating,2007,Norway,Dickinson,MI,North,45.774245,-87.839486,11000,Open,0
+280,Pennington Seed,Pennington Seed,assume mill residues,Domestic,Operating,2007,Greenfield,Dade,MO,North,37.410237,-93.848722,15000,Open,0
+329,AJ Stoves & Pellets,AJ Stoves & Pellets,assume mill residues,Domestic,Shut down,2007,Marion,Franklin,PA,North,39.857274,-77.696576,0,2012,0
+334,Greene Team Pellet Fuel,Greene Team Pellet Fuel,mill residues,Domestic,Operating,2007,Garards Fort,Greene,PA,North,39.818322,-80.025431,24000,Open,0
+477,InstantHeat Wood Pellets,InstantHeat Wood Pellets,hardwood sawdust,Domestic,Operating,2007,Addison,Steuben,NY,North,42.096761,-77.244618,50000,Open,0
+15,Palmetto Renewable Energy,Palmetto Renewable Energy,"mill waste (shavings), chips",Domestic,Shut down,2008,Martin,Allendale,SC,South,33.095784,-81.496269,16000,2010,0
+120,Gulf Coast Renewable Energy,Gulf Coast Renewable Energy (formerly Bayou Wood Pellets LLC),sawmill residues,N/A,Shut down,2008,West Monroe,Ouachita,LA,South,32.545891,-92.250416,60000,2012,0
+131,O'Malley Lumber Co,O'Malley Lumber Co,hardwood mill residues,Domestic,Operating,2008,Tappahannock,Essex,VA,South,37.91468889,-76.87427778,35000,Open,0
+162,Corinth Wood Pellets,Corinth Wood Pellets,wood chips from timber harvesting,Domestic,Operating,2008,Corinth,Penobscot,ME,North,44.989666,-69.010872,100000,Open,1
+189,Valley Forest Wood Products,Valley Forest Wood Products,sawdust and forest residues,Domestic,Shut down,2008,Marcell,Itasca,MN,North,47.587306,-93.686021,60000,2011,0
+193,New England Wood Pellet,"Lignetics, Inc.",mill residues and low grade timber,Domestic,Operating,2008,Jaffrey,Cheshire,NH,North,42.816417,-71.988552,84000,Open,0
+275,Mich Wood Pellet Fuel,Mich Wood Pellet Fuel,mill residues (green chips from sawmills),Domestic,Operating,2008,Holland,Ottawa,MI,North,42.757047,-86.088249,50000,Open,0
+282,Badgerland Pellets,Badgerland Pellets,mill residues,Domestic,Shut down,2008,Sheboygan Falls,Sheboygan,WI,North,43.674714,-87.78178,5500,2012,0
+284,Elkhorn Industries,Elkhorn Industries,assume mill residues,Domestic,Operating,2008,Superior,Douglas,WI,North,46.733976,-92.082123,36000,Open,0
+335,PA Pellets,Choice Forest Products (Delta Point Capital Management),sawdust and wood chips,Domestic,Operating,2008,Ulysses,Potter,PA,North,41.898305,-77.779045,48800,Open,0
+485,Hearthside Wood Pellets,Catskill Craftsmen,mill residues,Domestic,Operating,2008,Stamford,Delaware,NY,North,42.407033,-74.625214,5000,Open,0
+561,"Marth Peshtigo Pellet Company, LLC","Lignetics, Inc.","logging residues, thinnings, urban wood, mill residues",Domestic,Operating,2008,Peshtigo,Marinette,WI,North,45.056931,-87.732645,45000,Open,0
+603,"Wood Fibers, Inc.","Wood Fibers, Inc.",mill residues,Domestic,Operating,2008,Niagara,Marinette,WI,North,45.781846,-87.994955,90000,Open,0
+14,Lignetics Kenbridge,"Lignetics, Inc.",mill waste (hardwood sawdust),Domestic,Operating,2009,Kenbridge,Lunenburg,VA,South,36.9249543,-78.0887604,90000,Open,0
+113,American Wood Fibers,American Wood Fibers,softwood and hardwood mill residues,Domestic,Operating,2009,Marion,Smyth,VA,South,36.812276,-81.647999,50000,Open,0
+116,Lee Energy Solutions LLC,Lee Energy Solutions LLC,"sawdust, chips",Export,Shut down,2009,Crossville,Dekalb,AL,South,34.287592,-85.99414,116000,2017,1
+122,Henry County Hardwoods,Henry County Hardwoods,mill residues,Domestic,Operating,2009,Paris,Henry,TN,South,36.302746,-88.377133,7500,Open,0
+132,"Potomac Supply, LLC",American Industrial Partners (formerly Potomac Supply),assume mill residues from own operation,Domestic,Operating,2009,Kinsale,Westmoreland,VA,South,38.023017,-76.595697,20000,Open,0
+158,Bioensertech,Bioensertech,unknown,Domestic,Operating,2009,Menomonie,Dunn,WI,North,44.893328,-91.879588,200000,Open,1
+170,Maine Woods Pellet,Maine Woods Pellet,mill residues and some hardwood chips from forests,Domestic,Operating,2009,Athens,Somerset,ME,North,44.964935,-69.567872,100000,Open,1
+176,Lakes Region Pellets,Lakes Region Pellets,assume woods material,Domestic,Shut down,2009,Barnstead,Belknap,NH,North,43.341982,-71.263863,10000,2011,0
+177,Great Lakes Renewable Energy,Great Lakes Renewable Energy,roundwood,Domestic,Operating,2009,Hayward,Sawyer,WI,North,46.003125,-91.499608,36000,Open,0
+178,Tri State Biofuels,Tri State Biofuels,"roundwood, chips, sawdust",Domestic,Shut down,2009,Lemont Furnace,Fayette,PA,North,39.907221,-79.674008,50000,2017,0
+188,Renewafuel,RNFL Acquisition LLC (previously Cliffs Natural Resources),"wood and agricultural feedstocks, including wood by-products, grasses, and energy crops",Domestic,Shut down,2009,Battle Creek,Calhoun,MI,North,42.321152,-85.179714,60000,2011,0
+191,Keystone Pellet,Keystone Pellet,assume mill residues,Domestic,Operating,2009,Palmerton,Carbon,PA,North,40.817319,-75.55899,35000,Open,0
+283,Bay Lakes Cos,Bay Lakes Cos,assume mill residues,Domestic,Operating,2009,Oconto Falls,Oconto,WI,North,44.88503,-88.153486,20000,Open,0
+324,Geneva Wood Fuels,"Lignetics, Inc.",hardwood roundwood,Domestic,Operating,2009,Strong,Franklin,ME,North,44.800155,-70.206902,80000,Open,0
+326,Presby Environmental,Presby Environmental,assume mill residues,Domestic,Operating,2009,Whitefield,Coos,NH,North,44.266679,-71.546017,55000,Open,0
+331,Bald Eagle Pellet,Bald Eagle Pellet,mill residues from Center Hardwood operations,Domestic,Operating,2009,Tyrone,Blair,PA,North,40.670681,-78.238495,6600,Open,0
+332,Barefoot Pellet,Barefoot Pellet,mill residues,Domestic,Operating,2009,Troy,Bradford,PA,North,41.785908,-76.788011,33000,Open,0
+333,Energex Pellet Fuel,Energex Pellet Fuel,mill residues,Domestic,Operating,2009,Mifflintown,Juniata,PA,North,40.543814,-77.368274,60000,Open,0
+338,Treecycle,Treecycle,recycled wood - assume mill residues,Domestic,Operating,2009,Glen Gardner,Hunterdon,NJ,North,40.681322,-74.920957,80000,Open,0
+438,Ace Pellet Co.,Ace Pellet Co.,pine and hardwood mill residues,Domestic,Operating,2009,Cedar Grove,Carroll,TN,South,35.746194,-88.541555,2500,Open,0
+670,Log Hard Premium Pellets Inc,Log Hard Premium Pellets Inc,mill residues,Domestic,Operating,2009,Spartansburg,Crawford,PA,North,41.83561,-79.661941,25000,Open,0
+11,Appling County Pellets,FRAM Renewable Fuels,"mill waste (sawdust), clean chips",Export,Operating,2010,Baxley,Appling,GA,South,31.815192,-82.4677134,254000,Open,1
+130,Big Heat Wood Pellets,Big Heat Wood Pellets,mill residues,Domestic,Operating,2010,Chester,Chesterfield,VA,South,37.350952,-77.314138,80000,Open,0
+175,Indeck Energy Ladysmith BioFuel Center,Indeck Energy Services,"hardwood: raw hardwood, forest residuals, sawdust",Domestic,Operating,2010,Ladysmith,Rusk,WI,North,45.437535,-91.101375,90000,Open,0
+185,Essex Pallet and Pellet,Essex Box & Pallet,mill residues from own operations,Domestic,Operating,2010,Keeseville,Essex,NY,North,44.490127,-73.489568,22000,Open,0
+269,Lignetics Linn,"Lignetics, Inc.",sawmill waste,Domestic,Operating,2010,Linn,Gilmer,WV,North,39.008146,-80.718988,125000,Open,1
+291,Wood Residuals Solutions,Wood Residuals Solutions,unknown,Domestic,Operating,2010,Montelo,Marquette,WI,North,43.780944,-89.321071,0,Open,0
+665,Equustock Montbrook,Equustock,mill Residues,Domestic,Operating,2010,Montbrook,Levy,FL,South,29.31959,-82.428493,40000,Open,0
+666,Equustock Clare,Equustock,mill Residues,Domestic,Operating,2010,Clare,Clare,MI,North,43.818884,-84.76832,36000,Open,0
+668,Equustock Troy,Equustock,mill Residues,Domestic,Operating,2010,Troy,Fluvanna,VA,South,37.950484,-78.246087,40000,Open,0
+12,Enviva Amory,Enviva LP,"general wood waste, logging waste",Export,Operating,2011,Amory,Monroe,MS,South,33.9877665,-88.4948033,121000,Open,1
+87,Enviva Wiggins,Enviva LP,chips,Export,Shut down,2011,Perkinson,Stone,MS,South,30.795328,-89.128886,121000,2017,1
+167,New England Wood Pellet,"Lignetics, Inc.",clean chips and some mill residues,Domestic,Operating,2011,Deposit,Delaware,NY,North,42.049421,-75.418361,85000,Open,0
+363,Fire Glow Wood Pellets,Fire Glow Wood Pellets,chips from nearby chip mill,Domestic,Operating,2011,Manistee,Manistee,MI,North,44.239527,-86.276807,0,Open,0
+387,Great American Pellet Company,Great American Pellet Company,trees harvested through timber stand improvement projects,Domestic,Shut down,2011,Palmerton,Carbon,PA,North,40.817342,-75.55327,32000,2014,0
+399,Crate Creations,Crate Creations,mill residues,Domestic,Operating,2011,Richmond,Wayne,IN,North,39.867113,-84.919305,0,Open,0
+511,Isabella Pellet,Isabella Pellet/PWGG LLC,sawmill residues,Domestic,Operating,2011,Lake Isabella,Isabella,MI,North,43.638895,-84.984353,15000,Open,0
+512,Appalachian Wood Pellets,Allegheny Wood Products,mill residues,Domestic,Operating,2011,Kingwood,Preston,WV,North,39.470376,-79.694009,55000,Open,0
+542,Eagle Bio-Fuels,Eagle Bio-Fuels,sawdust,Domestic,Operating,2011,New Richmond,St. Croix,WI,North,45.122157,-92.53804,0,Open,0
+715,Southern Indiana Hardwoods,Southern Indiana Hardwoods,mill residues,N/A,Operating,2011,Huntingburg,Dubois,IN,North,38.337567,-86.859694,8000,Open,0
+156,Eastern Mountain Pellet Company,Eastern Mountain Pellet Company (formerly Eden Pellets),mill residues and construction debris,Domestic,Shut down,2012,Chesapeake,Norfolk,VA,South,36.795298,-76.262319,60000,2017,0
+515,Wood Fuel Developers,Wood Fuel Developers,"in-woods chips, mill residues",Domestic,Operating,2012,Waverly,Sussex,VA,South,37.035518,-77.098007,134000,Open,1
+548,Fram Renewable Fuels & Telfair Forest Products,Fram Renewable Fuels,"dust from animal bedding plant, lumber mill residues",Export,Operating,2012,Lumber City,Telfair,GA,South,31.922692,-82.678022,138000,Open,1
+13,Trae Fuels,EnviroTech,roundwood,Export,Shut down,2013,Bumpass,Louisa,VA,South,37.9620985,-77.7772379,132000,2017,1
+196,Vermont Wood Pellet Co.,Vermont Wood Pellet Co.,pulpwood and mill residues,Domestic,Operating,2013,Clarendon,Rutland,VT,North,43.529184,-72.957187,16000,Open,0
+545,Enviva Northampton,Enviva LP,"roundwood, in-woods chips, mill residues",Export,Operating,2013,Garysburg,Northampton,NC,South,36.451017,-77.558866,562000,Open,1
+576,Enviva Southampton,Enviva LP,"roundwood, in-woods chips, mill residues",Export,Operating,2013,Courtland,Southampton,VA,South,36.716261,-77.068019,562000,Open,1
+657,Dixie Energy,Dixie Energy,mill residuals,Export,Operating,2013,Cross City,Dixie,FL,South,29.619828,-83.095343,40000,Open,0
+293,Northeast Wood Products LLC (Previously Pennington Seed),Northeast Wood Products LLC,"sawdust, chips",Domestic,Temporarily Idled,2014,Ligonier,Noble,IN,North,41.473129,-85.596321,66000,2018,0
+641,Vulcan Renewables,Vulcan Renevables,softwood pulpwood,Export,Shut down,2014,St. Augustine,St. Johns,FL,South,29.873227,-81.387074,220462,2015,1
+650,Northeast Wood Products LLC,Northeast Wood Products LLC,mill residues,Domestic,Temporarily Idled,2014,Peebles,Adams,OH,North,38.948981,-83.406633,71500,2018,0
+690,NuCoal,Integro Earth Fuels Inc.,forest residues (tops and limbs),Export,Operating,2014,Greenville,Greenville,SC,South,34.757597,-82.384145,11000,Open,0
+714,WestWind Logistics LLC,WestWind Logistics LLC,mill residues,N/A,Operating,2014,Des Moines,Polk,IA,North,41.628639,-93.592415,15000,Open,0
+716,Easy Heat,Easy Heat,mill residues,N/A,Operating,2014,South Charleston,Clark,OH,North,39.820233,-83.643496,13000,Open,0
+738,Blackstone Pellets,Eastford Wood Fiber LLC,Hardwood Sawmill Residuals,N/A,Operating,2014,Eastford,Windham,CT,North,41.873818,-72.088698,15000,Open,0
+3,Zilkha Biomass,Zilkha Biomass,assume wood chips,Export,Shut down,2015,Selma,Dallas,AL,South,32.41621,-86.869736,275000,2017,1
+100,Nature's Earth Pellet),"GreenWorld Development, Inc",mill residues and wood chips,Export,Operating,2015,Laurinburg,Scotland,NC,South,34.796838,-79.460653,100000,Open,1
+142,E-Pellets,E-Pellets,"Using 56,000 tons per year of PPW. The rest is mill residuals.",Export,Shut down,2015,Nahunta,Brantley,GA,South,31.208614,-81.95505,187000,2017,1
+330,Allegheny Pellet (New England Wood Pellet),"Lignetics, Inc.",assume mill residues,Domestic,Operating,2015,Youngsville,Warren,PA,North,41.864063,-79.328352,50000,Open,0
+391,Low Country BioMass (previously Champion Wood Pellets),"Low Country BioMass, LLC",pine sawmill residues,Export,Shut down,2015,Ridgeland,Jasper,SC,South,32.475551,-81.024512,50000,2017,0
+685,Snow Timber Pellets,Snow Timber Pellets,residuals from hardwood facility,Domestic,Operating,2015,Hurley,Iron,WI,North,46.439796,-90.200797,12000,Open,0
+686,Queston Wood Pellets,Queston Wood Pellets,pulpwood and chips,Domestic,Operating,2015,West Windsor,Windsor,VT,North,43.486199,-72.487949,35000,Open,0
+708,Woodsmith Pellets,Smith Flooring,Mill residuals,N/A,Operating,2015,Mountain View,Howell,MO,North,36.995524,-91.720252,15000,Open,0
+6,Fiber Energy Products AR,Forest Energy Products (Previously Sparkman Wood Pellets),mill waste,Domestic,Operating,2016,Mountain View,Stone,AR,South,35.868408,-92.117652,35000,Open,0
+7,Fiber Resources,Fiber Resources Incorporated,mill waste,Domestic,Operating,2016,Pine Bluff,Jefferson,AR,South,34.2179549,-91.893087,80000,Open,0
+9,Enviva Cottondale,Enviva LP,"roundwood, mill residuals, in-woods chips; 80-90% pine and rest hardwood",Export,Operating,2016,Cottondale,Jackson,FL,South,30.738056,-85.3925,826000,Open,1
+123,Varn Wood Products,Varn Wood Products,mill residues from pine sawmill,Export,Operating,2016,Hoboken,Brantley,GA,South,31.18204167,-82.13737222,88000,Open,0
+166,Kirtland Products,Kirtland Products,jack pine and hardwoods,Domestic,Operating,2016,Boyne City,Charlevoix,MI,North,45.207589,-84.989216,30000,Open,0
+169,Curran Renewable Energy,Curran Renewable Energy,whole-tree chips,Domestic,Operating,2016,Massena,St. Lawrence,NY,North,44.908828,-74.891155,120000,Open,1
+171,Schuyler Manufacturing (New England Wood Pellet),"Lignetics, Inc.",mill residues and low grade timber,Domestic,Operating,2016,Schuyler,Herkimer,NY,North,42.513004,-76.842567,77000,Open,0
+266,Somerset Pellet Fuel,Somerset Pellet Fuel,sawdust from flooring line,Domestic,Operating,2016,Somerset,Pulaski,KY,South,37.046857,-84.626069,55000,Open,0
+267,Hamer Pellet Fuel,Hamer Pellet Fuel,hardwood sawdust from own lumber operations,Domestic,Operating,2016,Elkins,Randolph,WV,North,38.914748,-79.849979,70000,Open,0
+271,Fiber By-Prod,Fiber By-Prod,mill waste,Domestic,Operating,2016,White Pigeon,St. Joseph,MI,North,41.769575,-85.666868,114000,Open,1
+279,Ozark Hardwood Products,Fiber Energy Products,assume mill residues,Domestic,Operating,2016,Seymour,Webster,MO,North,37.164273,-92.751932,140000,Open,1
+325,Northeast Pellets,Northeast Pellets,mill residues,Domestic,Operating,2016,Ashland,Aroostook,ME,North,46.633106,-68.436101,55000,Open,0
+586,New Biomass Energy (Previously Solvay),New Biomass Energy,in-woods chips from thinnings in Southern pine plantations,Export,Shut down,2016,Quitman,Clarke,MS,South,32.045616,-88.7333,250000,2017,1
+592,Fram Hazlehurst,Fram Renewable Fuels,mill residuals and pulpwood,Export,Operating,2016,Hazlehurst,Jeff Davis,GA,South,31.858032,-82.575929,525000,Open,1
+638,Colombo Energy,The Navigator Company (Previously Portucel Soporcel group),assume pine pulpwood,N/A,Operating,2016,Greenwood,Greenwood,SC,South,34.229084,-82.063617,460000,Open,1
+717,Godfrey Lumber Co.,Godfrey Lumber Co.,Mill residuals from company's sawmill,N/A,Operating,2016,Statesville,Iredell,NC,South,35.761293,-80.885286,12000,Open,0
+143,Georgia Biomass,Innogy (Previously RWE),pulpwood roundwood,Export,Operating,2017,Waycross,Ware,GA,South,31.258221,-82.408639,827000,Open,1
+328,Dry Creek Products,Choice Forest Products (Delta Point Capital Management),mill residues,Domestic,Operating,2017,Arcade,Wyoming,NY,North,42.525533,-78.456054,85000,Open,0
+498,Enviva Ahoskie,Enviva LP,"hardwood roundwood, in-woods chips, mill residues",Export,Operating,2017,Ahoskie,Hertford,NC,South,36.270073,-76.96502,408000,Open,1
+531,Westervelt Renewable Energy,Westervelt Renewable Energy,"pulpwood, thinnings, sawmill residues, potentially clean in-woods chips",Export,Operating,2017,Aliceville,Pickens,AL,South,33.159875,-88.112102,286600,Open,1
+614,LaSalle BioEnergy,Drax,softwood pulpwood,Export,Operating,2017,Urania,La Salle,LA,South,31.879301,-92.278595,496000,Open,1
+660,Highland Pellets Pine Bluff,Highland Pellets,pine pulpwood,N/A,Operating,2017,Pine Bluff,Jefferson,AR,South,34.259709,-92.070103,661000,Open,1
+698,Allendale White Pellet Plant,"Thunderbolt Biomass, Inc",assumed pine pulpwood,N/A,Operating,2017,Allendale,Allendale,SC,South,33.021462,-81.318899,60000,Open,0
+706,LJR Forest Products,LJR Forest Products,Pine pulpwood and mill residuals,N/A,Operating,2017,Swainsboro ,Emanuel,GA,South,32.530898,-82.338228,175000,Open,1
+599,Amite BioEnergy,Drax,"pine roundwood, mill residues, logging residues",Export,Operating,2018,Gloster,Amite,MS,South,31.197396,-91.02177,578000,Open,1
+600,Morehouse BioEnergy,Drax,"pine roundwood, mill residues, logging residues",Export,Operating,2018,Bastrop,Morehouse,LA,South,32.755789,-91.872569,578000,Open,1
+624,Enviva Sampson,Enviva LP,pine and hardwood roundwood,N/A,Operating,2019,Clinton,Sampson,NC,South,35.117794,-78.182454,661000,Open,1
