@@ -11,17 +11,17 @@ from scipy import stats
 def matchit(df,treatment, prscore,resamp = False,threshold = 1.0):
     """
     
-    Note : this function will reset the index and drop the old index in the new dataframe taht is output
+    Note : this function will reset the index and drop the old index in the output pandas
     
     
     
-    df -- pandas dataframe that contains treated and non-treated samples and must have standard indexing (may update indexing)
+    df -- pandas dataframe that contains treated and non-treated samples
     
     treatment -- treatment is your treatment column (should be 1 or 0)
     
     prscore -- is your propensity score column from logistic or probit regression
     
-    resamp -- indicates whether we want to resample in mathcing or not
+    resamp -- indicates whether we want to resample in matching or not
     
     threshold -- set to 1.0 so that every observation gets a match, but can be changed; threshold meaning that
     every value is matched because a propensity score can not be greater than 1 or less than 0 in our
@@ -62,7 +62,7 @@ def matchit(df,treatment, prscore,resamp = False,threshold = 1.0):
         elif treat == vals[1]:
             g2.update({i:score})
     
-    # this is making sure that the more less-frequent treatment is
+    # this is making sure that the less-frequent treatment is
     # matched against the more-frequent
     
     if len(g2) > len(g1):
@@ -167,7 +167,7 @@ def matchit(df,treatment, prscore,resamp = False,threshold = 1.0):
         matched.append(key1)
         matched.append(key2)
     
-    # incase resampling is set to true this makes sure each observation is unique in the final df
+    # incase resampling is set to true this makes sure each observations are unique in the final df
     
     val1 = len(matched)
     matched = list(set(matched))
@@ -229,22 +229,11 @@ def hausman(fe, re):
     """
 
     # Pull data out
+    
     b = fe.params
     B = re.params
     v_b = fe.cov
     v_B = re.cov
-
-    
-    # not sure about this note but it shouldnt matter for us because
-    # we are not estimating plot specific effects... and the only difference
-    # between the models is the inclusion of an extra fixed effect
-    # and fgls for random effects
-    
-                        # NOTE: find df. fe should toss time-invariant variables, but it
-                        #       doesn't. It does return garbage so we use that to filter
-
-                        #df = b[np.abs(b) < 1e8].size
-
     df = b.size
     
     # compute test statistic and associated p-value
